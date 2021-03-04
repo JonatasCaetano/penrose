@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64781037709",
+    "firebase_url": "https://penrose-app.firebaseio.com",
+    "project_id": "penrose-app",
+    "storage_bucket": "penrose-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64781037709:android:ad9671a7bd06132bc072c4",
+        "android_client_info": {
+          "package_name": "com.penrose.penrose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64781037709-nrrljt1btrck76h9gg7s1t98srl4oaq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALmYB7XKt_KJlB4TQNYbIkie3cVxnGtec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64781037709-nrrljt1btrck76h9gg7s1t98srl4oaq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
